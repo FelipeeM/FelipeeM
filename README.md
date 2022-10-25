@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **FelipeeM/FelipeeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📊 Github Stats
+<a href="https://github.com/FelipeeM/FelipeeM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeeM&hide=java&theme=dark&show_icons=true" />
+</a>
+
+<a href="[https://github.com/FelipeeM/FelipeeM](https://github.com/FelipeeM/FelipeeM)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeeM&show_icons=true&line_height=27&count_private=true&theme=dark&show_icons=true" alt="FelipeeM GitHub Stats" />
+  </a>
+  
+ ---
