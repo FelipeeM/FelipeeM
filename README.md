@@ -1,24 +1,17 @@
-<!--
-**FelipeeM/FelipeeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👋 Hi! I'm Felipe Mendes 🇧🇷</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 📊 Github Stats
+<div>
 <a href="https://github.com/FelipeeM/FelipeeM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeeM&hide=java&theme=dark&show_icons=true" />
 </a>
 
 <a href="[https://github.com/FelipeeM/FelipeeM](https://github.com/FelipeeM/FelipeeM)">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeeM&show_icons=true&line_height=27&count_private=true&theme=dark&show_icons=true" alt="FelipeeM GitHub Stats" />
-  </a>
+</a>
+</div>
+
+
+
   
  ---
