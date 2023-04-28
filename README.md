@@ -33,10 +33,6 @@
 <p align="center" style="margin-top:10px">
     <h2>Some of my projects</h2>
 </p>
-My projects about packages installer Linux, interface automation, and dotfiles, are in this organization.
-<br>
-<br>
-
 
   [![color-picker-on-the-screen](https://github-readme-stats.vercel.app/api/pin/?username=FelipeeM&repo=color-picker-on-the-screen&theme=dark&show_icons=true)](https://github.com/FelipeeM/color-picker-on-the-screen)
   [![color-picker-on-the-screen](https://github-readme-stats.vercel.app/api/pin/?username=FelipeeM&repo=SIM800L-GPRS-connect&theme=dark&show_icons=true)](https://github.com/FelipeeM/SIM800L-GPRS-connect)
