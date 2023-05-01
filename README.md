@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi! I'm Felipe Mendes 🇧🇷</h3>
 
-# Tecnologies that I usually use
+# Technologies that I usually use
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
