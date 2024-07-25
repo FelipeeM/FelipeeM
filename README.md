@@ -8,9 +8,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="GoogleCloud" width="40" height="40"/>&nbsp;
 
 <p align="left">
 
@@ -22,11 +22,11 @@
 # 📊 Github Stats
 <div>
 <a href="https://github.com/FelipeeM/FelipeeM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeeM&hide=java&theme=dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeeM&theme=dark&show_icons=true&hide_border=false&count_private=false" />
 </a>
 
-<a href="[https://github.com/FelipeeM/FelipeeM](https://github.com/FelipeeM/FelipeeM)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeeM&show_icons=true&line_height=27&count_private=true&theme=dark&show_icons=true" alt="FelipeeM GitHub Stats" />
+<a href="https://github.com/FelipeeM/FelipeeM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeeM&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="FelipeeM GitHub Stats" />
 </a>
 </div>
 
